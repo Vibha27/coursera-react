@@ -16,7 +16,7 @@ class Header extends Component {
 
     toggleNav() {
         this.setState({
-            // if true then false vic e versa
+            // if true then false vice versa
             isNavOpen : !this.state.isNavOpen 
         })
     }
